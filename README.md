@@ -10,6 +10,8 @@ This is my essay
 
 This is project 1....
 
+</p>
+
 ### Project 2
 
 <details><summary>CLICK ME</summary>
