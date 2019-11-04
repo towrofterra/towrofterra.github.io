@@ -4,9 +4,9 @@ This is my essay
 ## Project Drafts
 
 <details><summary>Project 1</summary><p>
-<object data="https://towrofterra.github.io/PDF/p1.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://towrofterra.github.io/PDF/p1.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://towrofterra.github.io/PDF/p1.pdf">Download PDF</a>.     </p>
+<object data="https://towrofterra.github.io/p1.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://towrofterra.github.io/p1.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://towrofterra.github.io/p1.pdf">Download PDF</a>.     </p>
     </embed>
 </object>
 </p></details>
