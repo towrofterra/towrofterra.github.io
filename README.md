@@ -3,23 +3,21 @@
 This is my essay
 ## Project Drafts
 
-### Project 1
-
-<details><summary>CLICK ME</summary>
+<details><summary>Project 1</summary>
 <p>
 This is project 1....
 </p>
 </details>
 
 ### Project 2
-<details><summary>CLICK ME</summary>
+<details><summary>Project 2</summary>
 <p>
 This is project 2....
 </p>
 </details>
 
 ### Project 2
-<details><summary>CLICK ME</summary>
+<details><summary>Project 3</summary>
 <p>
 This is project 2....
 </p>
