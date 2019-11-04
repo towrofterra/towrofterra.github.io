@@ -7,17 +7,16 @@ This is my essay
 
 <details><summary>CLICK ME</summary>
 <p>
-
 This is project 1....
-
 </p>
+</details>
 
 ### Project 2
 
 <details><summary>CLICK ME</summary>
 <p>
 
-This is project 1....
+This is project 2....
 
 </p>
 </details>
