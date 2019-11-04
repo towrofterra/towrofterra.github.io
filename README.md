@@ -3,11 +3,11 @@
 This is my essay
 ## Project Drafts
 
-<details><summaryProject 1</summary><p>
+<details><summary>Project 1</summary><p>
 This is project 1....
 </p></details>
 
-<detailssummary>Project 2</summary><p>
+<details><summary>Project 2</summary><p>
 This is project 2....
 </p></details>
 
