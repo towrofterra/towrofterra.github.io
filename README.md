@@ -1,7 +1,6 @@
-# Jake Levi Advanced Writing Portfolio
-## Reflective Essay
+# Reflective Essay
 This is my essay
-## Project Drafts
+# Project Drafts
 
 <details><summary>Project 1</summary><p>
 <object data="https://towrofterra.github.io/p1.pdf" type="application/pdf" width="700px" height="700px">
@@ -22,7 +21,7 @@ This is my essay
 This is project 3....
 </p></details>
 
-## Supporting Materials
+# Supporting Materials
 
 Reflections
 SimpleEnglishValidator
