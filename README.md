@@ -1,4 +1,3 @@
-# Reflective Essay
 # <u><b>The Story of Henry the Robin</b></u>
 
 Once upon a time, in a little town, in a little tree, lived a little family of robins. There was mummy robin, daddy robin, and of course, <span style="color:red">Henry Robin</span>.
