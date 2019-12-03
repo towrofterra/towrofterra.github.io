@@ -18,7 +18,7 @@ This is my essay
 </object></p></details>
 
 <details><summary>Project 3</summary><p>
-This is project 3....
+<iframe src="https://simple.wikipedia.org/wiki/3D_printing">Your browser does not support iframes, please use a supported browser</iframe>
 </p></details>
 
 # Supporting Materials
