@@ -35,7 +35,9 @@ Henry found Bertie by the pond. "<span style="color:red">Hello Bertie!</span>", 
 
 Bertie also loved singing, but didn't want to enter the competition, because she was <span style="font-size:0.75em;color:yellow">quite shy</span>. "Well Henry, I think I'd be <span style="color:yellow">too frightened</span> to sing at the big competition, but I would you like to show <em>you</em> what I've been working on."
 
-Bertie sang a _very_ pretty song about <span style="color:yellow">being modest</span>, and Henry enjoyed it a lot! "Maybe you could sing the last bit a little louder", he suggested, and Bertie liked the idea so much she wrote it down to try at once! [[LG10]](https://towrofterra.github.io/LearningGoalEvidence/LG10.jpg) While Bertie was singing her song again, Henry listened very hard, and thought about what Bertie was singing about. [[LG9]](https://towrofterra.github.io/LearningGoalEvidence/LG9.jpg)
+Bertie sang a _very_ pretty song about <span style="color:yellow">being modest</span>, and Henry enjoyed it a lot! "Maybe you could sing the last bit a little louder", he suggested, and Bertie liked the idea so much she wrote it down to try at once! [[LG10]](https://towrofterra.github.io/LearningGoalEvidence/LG10.jpg) While Bertie was singing her song again, Henry listened very hard, and thought about what Bertie was singing about. <div class="tooltip">[[LG9]](https://towrofterra.github.io/LearningGoalEvidence/LG9.jpg)
+  <span class="tooltiptext">LG9 def</span>
+</div>
 
 # Project Drafts
 
