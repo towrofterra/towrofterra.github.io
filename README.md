@@ -1,43 +1,6 @@
-<style>
-.tooltip {
-    position: relative;
-    display: inline-block;
-    border-bottom: 1px dotted black;
-}
-
-.tooltip .tooltiptext {
-    visibility: hidden;
-    width: 120px;
-    background-color: black;
-    color: #fff;
-    text-align: center;
-    border-radius: 6px;
-    padding: 5px 0;
-    position: absolute;
-    z-index: 1;
-    top: 150%;
-    left: 50%;
-    margin-left: -60px;
-}
-
-.tooltip .tooltiptext::after {
-    content: "";
-    position: absolute;
-    bottom: 100%;
-    left: 50%;
-    margin-left: -5px;
-    border-width: 5px;
-    border-style: solid;
-    border-color: transparent transparent black transparent;
-}
-
-.tooltip:hover .tooltiptext {
-    visibility: visible;
-}
-</style>
-
-
 # <u><b>The Story of Henry the Robin</b></u>
+
+[[Hover Over Me!]](https://towrofterra.github.io "Learning Goals will be numbered, and linked like this! Hover over them to get a definition.")
 
 Once upon a time, in a little town, in a little tree, lived a little family of robins. There was mummy robin, daddy robin, and of course, <span style="color:red">Henry Robin</span>.
 
@@ -63,20 +26,24 @@ Mr. Squirrel smiled warmly. "Well Henry, there's a singing competiton coming up 
 
 Henry was very excited! He had heard of this competition, and decided that he was going to give it his best try!
 
-"<span style="color:yellow">Do you have any tips for me</span>, before I leave to start writing my song, Mr Squirrel?" Henry asked, politely. [[LG5]](https://towrofterra.github.io/LearningGoalEvidence/LG5.jpg)
+"<span style="color:yellow">Do you have any tips for me</span>, before I leave to start writing my song, Mr. Squirrel?" Henry asked, politely. [[LG5]](https://towrofterra.github.io/LearningGoalEvidence/LG5.jpg "Students generate and pursue lines of inquiry and search, collect, and select sources appropriate to their writing projects.")
 
-"Yes, Henry, I think it's very important that <span style="font-size:1.2em;color:red">you end on a long high note</span>, so that everyone knows when to start clapping!"
+"Yes, Henry, I think it's very important that <span style="font-size:1.25em;color:red">you end on a long high note</span>, so that everyone knows when to start clapping!"
 
-Henry gave a loud chirp to say thank you, and flew off to tell his best friend, Bertie, the news, and ask for her advice too! [[LG5]](https://towrofterra.github.io/LearningGoalEvidence/LG5.jpg)
+Henry gave a loud chirp to say thank you, and flew off to tell his best friend, Bertie, the news, and ask for her advice too! [[LG5]](https://towrofterra.github.io/LearningGoalEvidence/LG5.jpg "Students generate and pursue lines of inquiry and search, collect, and select sources appropriate to their writing projects.")
 
 Henry found Bertie by the pond. "<span style="color:red">Hello Bertie!</span>", he chirped loudly. "I'm entering the big competition with my very own song, would you like to join too?"
 
 
 Bertie also loved singing, but didn't want to enter the competition, because she was <span style="font-size:0.75em;color:yellow">quite shy</span>. "Well Henry, I think I'd be <span style="color:yellow">too frightened</span> to sing at the big competition, but I would you like to show <em>you</em> what I've been working on."
 
-Bertie sang a _very_ pretty song about <span style="color:yellow">being modest</span>, and Henry enjoyed it a lot! "Maybe you could sing the last bit a little louder", he suggested, and Bertie liked the idea so much she wrote it down to try at once! [[LG10]](https://towrofterra.github.io/LearningGoalEvidence/LG10.jpg) While Bertie was singing her song again, Henry listened very hard, and thought about what Bertie was singing about. <div class="tooltip">[[LG9]](https://towrofterra.github.io/LearningGoalEvidence/LG9.jpg)
-  <span class="tooltiptext">LG9 def</span>
-</div>
+Bertie sang a _very_ pretty song about <span style="color:yellow">being modest</span>, and Henry enjoyed it a lot! "Maybe you could sing the last bit a little louder", he suggested, and Bertie liked the idea so much she tried it at once! [[LG10]](https://towrofterra.github.io/LearningGoalEvidence/LG10.jpg "Students provide revision-based response to their peers.") While Bertie was singing her song again, Henry listened very hard, and thought about what Bertie was singing about. [[LG9]](https://towrofterra.github.io/LearningGoalEvidence/LG9.jpg "Students practice critical reading strategies.")
+
+Henry liked that Bertie's song had a <span style="color:red">moral</span>, and decided that his song would have a <span style="color:red">moral</span> too! He also remembered that most of the songs people sung at the competition last year had a <span style="color:red">moral</span> too, which made him even more sure! [[LG2]](https://towrofterra.github.io/LearningGoalEvidence/LG2.jpg "Students negotiate their own writing goals and audience expectations regarding conventions of genre, medium, and situation.")[[LG3]](https://towrofterra.github.io/LearningGoalEvidence/LG3.jpg "Students formulate and articulate a stance through and in their writing.")
+
+Henry said thank you to Bertie for her help, and flew off to his favourite thinking spot to try and write his song.
+
+Henry remembered Mr. Squirrel's advice, and made sure he ended his song on a <span style="font-size:1.25em;color:red">high note</span>. He also remembered Bertie's suggestion that he should sing <span style="font-size:.75em;color:yellow">quietly</span>.[[LG4]](https://towrofterra.github.io/LearningGoalEvidence/LG4.jpg "Students revise their writing using responses from others, including peers, consultants, and teachers.")
 
 # Project Drafts
 
