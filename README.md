@@ -142,4 +142,4 @@ I enjoyed writing my article. My writing process was very simple, as I was able 
 
 The most surprising thing about writing for Wikipedia was how technically complex it was. I'm very used to navigating computer systems, and it was a challenge to know how to achieve certain tasks. The next time I write such a document, I would probably try and consider the simple english format to ensure that my documentation is readable. 
     </p></details>
-SimpleEnglishValidator
+[[Simple English Validator Github]](https://github.com/towrofterra/SimpleEnglishValidator)
