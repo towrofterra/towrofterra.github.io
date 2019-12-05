@@ -106,12 +106,40 @@ The End
 <details><summary>Project 3</summary><p>
  <object data="https://towrofterra.github.io/p3.pdf" type="application/pdf" width="700px" height="1000px">
     <embed src="https://towrofterra.github.io/p3.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://towrofterra.github.io/p2.pdf">Download PDF</a>.     </p>
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://towrofterra.github.io/p3.pdf">Download PDF</a>.     </p>
     </embed>
 </object>
 </p></details>
 
 # Supporting Materials
 
-Reflections
+
+<details><summary>Project 1 Reflection</summary><p>
+    If I could restart this paper, I would probably choose a different topic, as, upon examination, S-L hasn't affected my education as much as it has affected my teaching. This distinction made it slightly harder to work with the class, and made me less able to take lessons from my peers' papers. However, I cannot think of a theorist in my field that <i>has</i> influenced my education explicitly. Reading the draft above mine (Quinton Hubbell's), I feel I should have taken more from my own studies in music, as I have had a very similar experience to him, which might have made for some compelling and more passionate writing.
+
+Reading Quinton's draf, I was extremely impressed by how fluidly and compellingly the paper was written. I feel that my paper was more formally written, which is no bad thing, but it certainly made it harder for me to achieve the same 'flow'.
+
+Overall, I'm happy with the work I produced; I spent most of my life receiving extremely substandard grades on any writing assignment (something I'm sure has something to do with the fact that I was forced to handwrite, an extremely painful activity for me), and have only recently begun to enjoy, and, in the process, improve, at writing. I hope that I continue to improve both in the scope of this class, and in my lexical endeavours elsewhere.
+
+    </p></details>
+
+<details><summary>Project 2 Reflection</summary><p>
+    I think that the reason for students mentioning the literature review in thank you correspondence is largely due to how applicable and relevant the task is to STEAM students. On a surface level, many students will attempt some form of research during their university careers, and this assignment gives them a background in an essential step of any research. This not only helps them complete the work, but might also be helpful in getting accepted into a lab.
+
+On a deeper level, the ability to synthesize information is an essential skill in a great many careers; this assignment forces the writer to synthesize information from a wide array of different papers, practicing this skill.
+
+With regard to my writing process, I did a huge amount more research than I am used to doing. Learning how to search different research archives is a skill I am glad I had the opportunity to practice. I also printed all papers and highlighted them; reading them with an eye for pattern recognition. This is something I have done before, but never to the extent that I did for this project. I also took more handwritten notes.
+
+I think that the most interesting thing I learned whilst doing the paper was how much work is needed in the field of education research. I was shocked by the disorganization of so much research, as well as how few replication studies had been carried out. 
+
+The best piece of peer feedback I received was the general tweaks suggested in Mike's peer review of my paper. He very clearly had done a close read, and I found his feedback very helpful!
+    </p></details>
+
+<details><summary>Project 3 Reflection</summary><p>
+    For project 3, I worked on the 3D printing article on simple english Wikipedia. I redid almost the entire article. There was no relevant discussion on the talk pages, and nobody has reacted to any changes I have made. I asked Ian for some technical assistance, but I did not receive any editorial feedback on my article. I wrote a peer review for Victoria, but there was not a huge amount to review at that point, so it was very basic. My big takeaway was that the simple english community is a lot less active than the english Wikipedia community, as I did not interact with anyone else.
+
+I enjoyed writing my article. My writing process was very simple, as I was able to use the structure and content from the main 3D printing article. I rewrote the body of text, and added images to scaffold certain sections. I'm proud of my contribution to free information, as I think that 3D printing is something that may very well be a democratizing force, and as such, I think it is beneficial to have useful, simple, information available for free.
+
+The most surprising thing about writing for Wikipedia was how technically complex it was. I'm very used to navigating computer systems, and it was a challenge to know how to achieve certain tasks. The next time I write such a document, I would probably try and consider the simple english format to ensure that my documentation is readable. 
+    </p></details>
 SimpleEnglishValidator
