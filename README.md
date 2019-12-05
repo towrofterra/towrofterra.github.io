@@ -2,7 +2,7 @@
 
 <span style="font-size:2em">[[Hover Over Me!]](https://towrofterra.github.io "Learning Goals will be numbered, and linked like this! Hover over them to get a definition, and click them to see evidence that I fulfilled the goal (middle click to open in a new tab, or you might lose your place!).")</span>
 
-Once upon a time, in a little town, in a little tree, lived a little family of robins. There was mummy robin, daddy robin, and of course, <span style="color:red">Henry Robin</span>.
+Once upon a time, in a little town, in a little tree, lived a little family of robins. There was mummy Robin, daddy Robin, and of course, <span style="color:red">Henry Robin</span>.
 
 They lived in a place you might know as a small village in England, but they called it <span style="color:green">Greenwood Forest</span>.
 
