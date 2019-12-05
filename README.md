@@ -121,7 +121,7 @@ Reading Quinton's draf, I was extremely impressed by how fluidly and compellingl
 
 Overall, I'm happy with the work I produced; I spent most of my life receiving extremely substandard grades on any writing assignment (something I'm sure has something to do with the fact that I was forced to handwrite, an extremely painful activity for me), and have only recently begun to enjoy, and, in the process, improve, at writing. I hope that I continue to improve both in the scope of this class, and in my lexical endeavours elsewhere.
 
-    </p></details>
+</p></details>
 
 <details><summary>Project 2 Reflection</summary><p>
     I think that the reason for students mentioning the literature review in thank you correspondence is largely due to how applicable and relevant the task is to STEAM students. On a surface level, many students will attempt some form of research during their university careers, and this assignment gives them a background in an essential step of any research. This not only helps them complete the work, but might also be helpful in getting accepted into a lab.
@@ -142,4 +142,5 @@ I enjoyed writing my article. My writing process was very simple, as I was able 
 
 The most surprising thing about writing for Wikipedia was how technically complex it was. I'm very used to navigating computer systems, and it was a challenge to know how to achieve certain tasks. The next time I write such a document, I would probably try and consider the simple english format to ensure that my documentation is readable. 
     </p></details>
-[[Simple English Validator Github]](https://github.com/towrofterra/SimpleEnglishValidator)
+    
+[Simple English Validator Github](https://github.com/towrofterra/SimpleEnglishValidator)
