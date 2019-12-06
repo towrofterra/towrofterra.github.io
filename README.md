@@ -73,7 +73,7 @@ That night, Henry told his mummy and daddy _all about_ his big day, and they wer
 
 "Wow Henry! How did you do that all by yourself?", asked mummy Robin.
 
-"Well", said Henry, "I actually had help from my friends, and our neighbour Mr. Squirrel. I couldn't have done it without them! They taught me so much, in different ways." [[LG6]](https://towrofterra.github.io/LearningGoalEvidence/LG6.jpg "Students effectively use and appropriately cite sources in their writing.") [[LG7]](https://towrofterra.github.io/LearningGoalEvidence/LG7.jpg "Students explore and represent their experiences, perspectives, and ideas in conversation with others.") [[LG8]](https://towrofterra.github.io/LearningGoalEvidence/LG8.jpg "Students use multiple forms of evidence to support their claims, ideas, and arguments.")
+"Well", said Henry, "I actually had help from my friends, and our neighbour Mr. Squirrel. I couldn't have done it without them! They taught me so much, in different ways." [[LG6]](https://towrofterra.github.io/LearningGoalEvidence/LG6.jpg "Students effectively use and appropriately cite sources in their writing.") LG7 [[LG8]](https://towrofterra.github.io/LearningGoalEvidence/LG8.jpg "Students use multiple forms of evidence to support their claims, ideas, and arguments.")
 
 After dinner, Henry went back to his room, and thought about all he'd learned that day.
 
